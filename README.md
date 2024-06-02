@@ -1,1 +1,1 @@
-# prod.data-static-websites.prod.webservices.mozgcp.net
+Takeover by 1binary0
